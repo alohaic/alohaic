@@ -10,11 +10,16 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 My socials
+### 🌐 My socials
 
 <p align="left">
 <a href="https://linkedin.com/in/yanganton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+# 📊 GitHub Stats
+![](https://streak-stats.demolab.com/?user=alohaic&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph-dark.svg">
@@ -23,6 +28,9 @@
 </picture>
 
 <!--
+- passion for photography
+
+
 **alohaic/alohaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
