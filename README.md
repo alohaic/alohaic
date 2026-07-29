@@ -1,6 +1,8 @@
 ## Hi there, I'm Anton 👋
 
-### 🛠️ Tech Stack
+🔭 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator.
+
+### 💻 Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -8,17 +10,17 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
 </p>
 
 ### 🌐 My socials
-
 <p align="left">
 <a href="https://linkedin.com/in/yanganton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-# 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=alohaic&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
