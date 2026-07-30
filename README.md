@@ -1,36 +1,41 @@
-## Hi there, I'm Anton 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=5000&color=7287FD&vCenter=true&width=435&height=40&lines=Hi+there%2C+I'm+Anton+%F0%9F%91%8B)](https://git.io/typing-svg)
+<br/>
+<br/>
 I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab.
 
 ### ⚙️ What I'm working on
-🔭 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator.
+🔭 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator. Visit my [Repo](https://github.com/alohaic/spi_sensor_controller) for more info!
 
 ### 💻 Tech Stack
 <p align="left">
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code"/>
 </p>
 
 ### 🌐 My socials
 <p align="left">
 <a href="https://linkedin.com/in/yanganton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
 </picture>
 
+
 <!--
-tech stack: matlab, linux, systemverilog
+tech stack missing icons: matlab, linux, systemverilog
+https://shields.io/ badges
 - passion for photography
 ### 👥 Leadership & Community
 - Facilitated technical PCB modeling workshops for 90+ students within the TUM Advisor Program.
 - Supported first-semester students as a student assistant and mentor.
+- keep it short, below is pinned repo. quickly scannable. how much include of cv experience, example Facilitated technical PCB modeling workshops?
 
 ### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
