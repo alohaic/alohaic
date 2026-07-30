@@ -18,6 +18,10 @@
 <a href="https://linkedin.com/in/yanganton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+
+
+<!--
+- passion for photography
 ### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -28,10 +32,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
 </picture>
-
-<!--
-- passion for photography
-
 
 **alohaic/alohaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
