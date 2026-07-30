@@ -1,9 +1,10 @@
 ## Hi there, I'm Anton 👋
+I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab.
 
+### ⚙️ What I'm working on
 🔭 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator.
 
 ### 💻 Tech Stack
-
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -25,23 +26,14 @@
 </picture>
 
 <!--
+tech stack: matlab, linux, systemverilog
 - passion for photography
+### 👥 Leadership & Community
+- Facilitated technical PCB modeling workshops for 90+ students within the TUM Advisor Program.
+- Supported first-semester students as a student assistant and mentor.
+
 ### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 
 
-**alohaic/alohaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
