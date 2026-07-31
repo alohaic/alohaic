@@ -24,8 +24,8 @@ I'm an Electrical Engineering and Information Technology undergraduate student a
 </p>
 
 <p align="left">
-Thanks for stopping by!
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" /> Thanks for stopping by!
 </p>
 
 <picture>
