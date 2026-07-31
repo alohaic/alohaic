@@ -1,5 +1,5 @@
 
-<img src="Waving Hand Light Skin Tone.png" width="45px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=1500&pause=8000&color=7287FD&center=true&vCenter=true&width=380&height=40&lines=Hi+there%2C+I'm+Anton!)](https://git.io/typing-svg)
+<img src="Waving Hand Light Skin Tone.png" width="45px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&letterSpacing=-1px&duration=1500&pause=9000&color=7287FD&center=true&vCenter=true&width=360&height=40&lines=Hi+there%2C+I'm+Anton!)](https://git.io/typing-svg)
 <br/>
 <br/>
 I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab.
