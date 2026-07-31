@@ -3,21 +3,19 @@
 <br/>
 <br/>
 I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab.
-
+<br/>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="20" height="20" /> Current projects
 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator. Visit my [Repo](https://github.com/alohaic/spi_sensor_controller) for more info.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Tech Stack 
 <p align="left">
-
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-<a href="https://www.notion.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
-<a href="https://www.digitalocean.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" /></a>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code"/>
+<a href="https://github.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" /></a>
+<a href="https://www.notion.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
+<a href="https://www.digitalocean.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></a>
+<a href="https://claude.com/product/claude-code" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code"/></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" height="20" /> Socials
@@ -31,7 +29,6 @@ I’m currently working on an SPI master IP core in SystemVerilog, verified in c
 
 Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" />
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
