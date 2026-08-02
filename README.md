@@ -35,7 +35,7 @@ Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Isla
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
 </picture>
 
-
+ 
 <!--
 tech stack missing icons: matlab, linux, systemverilog
 https://shields.io/ badges
