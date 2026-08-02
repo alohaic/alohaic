@@ -43,10 +43,11 @@ https://shields.io/ badges
 ### 👥 Leadership & Community
 - Facilitated technical PCB modeling workshops for 90+ students within the TUM Advisor Program.
 - Supported first-semester students as a student assistant and mentor.
+
 - keep it short, below is pinned repo. quickly scannable. how much include of cv experience, example Facilitated technical PCB modeling workshops?
 
 ### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alohaic&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ( https://gprm.itsvg.in ) -->
 
