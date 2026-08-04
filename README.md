@@ -30,7 +30,7 @@ I’m currently working on an SPI master IP core in SystemVerilog, verified in c
 Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=alohaic&color=7287FD&style=for-the-badge&label=Visitors&base=1)
+![](https://komarev.com/ghpvc/?username=alohaic&color=7287FD&style=for-the-badge&label=Visitors&base=11)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph-dark.svg">
