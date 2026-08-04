@@ -29,6 +29,9 @@ I’m currently working on an SPI master IP core in SystemVerilog, verified in c
 
 Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=alohaic&color=7287FD&style=for-the-badge&label=Visitors&base=42)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alohaic/alohaic/output/pacman-contribution-graph.svg">
@@ -45,6 +48,9 @@ https://shields.io/ badges
 - Supported first-semester students as a student assistant and mentor.
 
 - keep it short, below is pinned repo. quickly scannable. how much include of cv experience, example Facilitated technical PCB modeling workshops?
+
+Profile views
+![](https://komarev.com/ghpvc/?username=alohaic&color=dc143c)
 
 ### 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=alohaic&theme=tokyonight&hide_border=false)<br/>
