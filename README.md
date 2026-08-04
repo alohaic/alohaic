@@ -7,7 +7,7 @@ I'm an Electrical Engineering and Information Technology undergraduate student a
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="20" height="20" /> Current projects
 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator. Visit my [Repo](https://github.com/alohaic/spi_sensor_controller) for more info.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Tech Stack s
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Tech Stack
 <p align="left">
 <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
