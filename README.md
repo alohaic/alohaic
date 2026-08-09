@@ -29,7 +29,7 @@ I’m currently working on an SPI master IP core in SystemVerilog, verified in c
 
 Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="20" height="20" />
 </p>
-
+ 
 ![](https://komarev.com/ghpvc/?username=alohaic&color=7287FD&style=for-the-badge&label=Visitors&base=11)
 
 <picture>
