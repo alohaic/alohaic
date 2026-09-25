@@ -2,7 +2,7 @@
 <img src="Waving Hand Light Skin Tone.png" width="45px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&letterSpacing=-1px&duration=1500&pause=9000&color=7287FD&center=true&vCenter=true&width=360&height=40&lines=Hi+there%2C+I'm+Anton!)](https://git.io/typing-svg)
 <br/>
 <br/>
-I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab.
+I'm an Electrical Engineering and Information Technology undergraduate student at the **Technical University of Munich (TUM)** and a Working Student at **Infineon Technologies** in the GIP Verification Lab. 
 <br/>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="20" height="20" /> Current projects
 I’m currently working on an SPI master IP core in SystemVerilog, verified in cocotb on Verilator. Visit my [Repo](https://github.com/alohaic/spi_sensor_ctrl) for more info.
